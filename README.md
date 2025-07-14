@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Yash Dive</h1>
+<p align="center">
+  <strong>AI/ML Engineer | Full Stack Developer | Researcher </strong><br>
+  <a href="https://linkedin.com/in/yash2131" target="_blank">LinkedIn</a> • 
+  <a href="mailto:yash.b.m.v@gmail.com">Email</a> • 
+  <a href="https://github.com/yashdive" target="_blank">GitHub</a>
+</p>
 
-<!--
-**yashdive/yashdive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 A Bit About Me
+I'm currently pursuing my **Master’s in Computer Science at NC State University** and I bring **3+ years of industry experience** at Tata Consultancy Services, where I worked on end-to-end **AI/ML pipelines**, **full-stack enterprise apps**, and **automation systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about turning data into real products, simplifying complex problems, and building tools that people love to use. Whether it’s NLP, computer vision, or scalable cloud apps—I’m all in.
+
+---
+
+## 🛠️ Tech Toolbox
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="260">
+        <a href="https://github.com/yashdive/aibox" target="_blank">
+          <img src="https://raw.githubusercontent.com/yashdive/aibox/main/preview.png" width="100%" alt="AIBox Preview"/><br />
+          <strong>🧠 AIBox</strong>
+        </a>
+       </td>
+      <td align="center" width="260">
+        <a href="https://github.com/yashdive/poultry-disease-classifier" target="_blank">
+          <img src="https://raw.githubusercontent.com/yashdive/poultry-disease-classifier/main/preview.png" width="100%" alt="Poultry Classifier"/><br />
+          <strong>🐓 Poultry Classifier</strong>
+        </a>
+       </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 📚 Research & Patents
+
+- 📖 **Book Chapter**: *"Innovating Remote Learning: The Next Frontier in Education and Experimentation"*, IGI Global  
+  [DOI: 10.4018/979-8-3693-8593-7.ch013](https://www.igi-global.com/chapter/innovating-remote-learning/319605)
+  
+- 🧪 **Patent**: *Smart Tile with a Health Monitoring Device*, Govt. of India  
+  **Patent No. 551932**
+
+---
+
+## 🎓 Education
+
+🎓 **North Carolina State University**  
+_Master of Computer Science (2025–2027)_  
+
+🎓 **Savitribai Phule Pune University**  
+_B.E. in Computer Engineering (2018–2022)_  
+**GPA: 9.43/10**
+
+---
+
+## 📬 Let’s Connect!
+
+- 📧 Email: yash.b.m.v@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/yash2131)  
+- 📁 [My Resume (PDF)](https://github.com/yashdive/yashdive/raw/main/Yash%20Dive%20Resume_.pdf)
+
+---
+
+### ⚡ Fun Fact
+I love building AI tools that *feel like magic but work like math.* ⚙️✨
