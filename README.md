@@ -49,7 +49,7 @@ I’m passionate about turning data into real products, simplifying complex prob
         </a>
        </td>
       <td align="center" width="260">
-        <a href="[https://github.com/yashdive/poultry-disease-classifier](https://github.com/yashdive/poultry-disease-classifier/blob/main/README.md)" target="_blank">
+        <a href="https://github.com/yashdive/poultry-disease-classifier/blob/main/README.md" target="_blank">
           <img src="https://raw.githubusercontent.com/yashdive/poultry-disease-classifier/main/preview.png" width="100%" alt="Poultry Classifier"/><br />
           <strong>🐓 Poultry Classifier</strong>
         </a>
