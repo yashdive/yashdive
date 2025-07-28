@@ -38,38 +38,6 @@ I’m passionate about turning data into real products, simplifying complex prob
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="
-    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-    border-radius: 16px;
-    padding: 20px;
-    width: 260px;
-    color: white;
-    font-family: sans-serif;
-    text-align: left;
-  ">
-    <h3>🧠 AIBox</h3>
-    <a href="https://github.com/yourusername/invoice-validator" style="color: #00FFFF; text-decoration: none;">🔗 View Project</a>
-  </div>
-
-  <div style="
-    background: linear-gradient(135deg, #3a1c71, #d76d77, #ffaf7b);
-    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-    border-radius: 16px;
-    padding: 20px;
-    width: 260px;
-    color: white;
-    font-family: sans-serif;
-    text-align: left;
-  ">
-    <h3>🐓 Poultry Classifier</h3>
-    <a href="https://github.com/yourusername/academic-counselor" style="color: #00FFFF; text-decoration: none;">🔗 View Project</a>
-  </div>
-
-</div>
-
 
 <p align="center">
   <table>
@@ -81,7 +49,7 @@ I’m passionate about turning data into real products, simplifying complex prob
         </a>
        </td>
       <td align="center" width="260">
-        <a href="https://github.com/yashdive/poultry-disease-classifier" target="_blank">
+        <a href="[https://github.com/yashdive/poultry-disease-classifier](https://github.com/yashdive/poultry-disease-classifier/blob/main/README.md)" target="_blank">
           <img src="https://raw.githubusercontent.com/yashdive/poultry-disease-classifier/main/preview.png" width="100%" alt="Poultry Classifier"/><br />
           <strong>🐓 Poultry Classifier</strong>
         </a>
