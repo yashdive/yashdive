@@ -83,7 +83,7 @@ _B.E. in Computer Engineering (2018–2022)_
 
 ## 📬 Let’s Connect!
 
-- 📧 Email: yash.b.m.v@gmail.com  
+- 📧 yash.b.m.v@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/yash2131)  
 - 📁 [My Resume (PDF)](https://github.com/yashdive/yashdive/raw/main/Yash%20Dive%20Resume_.pdf)
 
